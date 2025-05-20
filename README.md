@@ -57,6 +57,7 @@ Highlights the most common and meaningful words found in job descriptions across
 
 
 ## Sample Prediction
+<img width="470" alt="ml jobs_prediction test" src="https://github.com/user-attachments/assets/a1f58234-e5eb-4d13-b518-2516eed64beb" />
 
 ```python
 text = """
@@ -65,3 +66,4 @@ Must have 5+ years of experience and proven leadership in team-based projects.
 """
 
 predict_seniority(text)  ➝  "Mid-Senior level"
+
