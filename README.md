@@ -39,7 +39,7 @@ This project applies Natural Language Processing (NLP) and machine learning to c
 ### 🔹 Confusion Matrix
 Shows how well the model distinguishes between different seniority levels.
 
-![Confusion Matrix](<img width="440" alt="ml job_confusion matrix" src="https://github.com/user-attachments/assets/1784ce47-9c4c-4c9f-8359-59397d73000a" />
+![Confusion Matrix](<img width="440" alt="ml job_confusion matrix" src="https://github.com/user-attachments/assets/c5f182f4-1966-4102-9cd9-73903259a3ca" />
 )
 
 ---
@@ -47,14 +47,16 @@ Shows how well the model distinguishes between different seniority levels.
 ### 🔹 Predicted Class Distribution
 Displays how frequently the model predicted each seniority level.
 
-![Barplot](<img width="413" alt="ml jobs_Barplot" src="https://github.com/user-attachments/assets/a4e38c42-7190-4882-ac0c-1ae281baeed6" />)
+![Barplot](<img width="413" alt="ml jobs_Barplot" src="https://github.com/user-attachments/assets/d1b31186-993e-42ba-b45b-6fbe5eb4b614" />
+)
 
 ---
 
 ### 🔹 Word Cloud
 Highlights the most common and meaningful words found in job descriptions across all classes.
 
-![Word Cloud](<img width="201" alt="ml jobs_wordcloud" src="https://github.com/user-attachments/assets/1ed9620a-4a26-45a2-a108-3305c8a04fbd" />)
+![Word Cloud](<img width="201" alt="ml jobs_wordcloud" src="https://github.com/user-attachments/assets/26c8c369-cd0a-40d7-a5fd-f09c8b275fc5" />
+)
 
 
 ## Sample Prediction
