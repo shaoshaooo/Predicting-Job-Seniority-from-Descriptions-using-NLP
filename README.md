@@ -34,17 +34,27 @@ This project applies Natural Language Processing (NLP) and machine learning to c
    - Predicts seniority level from any new job description
 
 ---
+## 📈 Visualizations
 
-## Visualizations
+### 🔹 Confusion Matrix
+Shows how well the model distinguishes between different seniority levels.
 
-| Confusion Matrix | Predicted Class Distribution | Prediction Test | Word cloud |
-|------------------|------------------------------|-----------------|------------|
-| ![confusion matrix](<img width="440" alt="ml job_confusion matrix" src="https://github.com/user-attachments/assets/1784ce47-9c4c-4c9f-8359-59397d73000a" />
-) | ![barplot](<img width="413" alt="ml jobs_Barplot" src="https://github.com/user-attachments/assets/a4e38c42-7190-4882-ac0c-1ae281baeed6" />
-) | ![test result](<img width="470" alt="ml jobs_prediction test" src="https://github.com/user-attachments/assets/43ea2fd1-1de3-41cf-820c-75137aac3125" />
-) | ![word cloud](<img width="201" alt="ml jobs_wordcloud" src="https://github.com/user-attachments/assets/1ed9620a-4a26-45a2-a108-3305c8a04fbd" />
+![Confusion Matrix](<img width="440" alt="ml job_confusion matrix" src="https://github.com/user-attachments/assets/1784ce47-9c4c-4c9f-8359-59397d73000a" />
 )
 
+---
+
+### 🔹 Predicted Class Distribution
+Displays how frequently the model predicted each seniority level.
+
+![Barplot](<img width="413" alt="ml jobs_Barplot" src="https://github.com/user-attachments/assets/a4e38c42-7190-4882-ac0c-1ae281baeed6" />)
+
+---
+
+### 🔹 Word Cloud
+Highlights the most common and meaningful words found in job descriptions across all classes.
+
+![Word Cloud](<img width="201" alt="ml jobs_wordcloud" src="https://github.com/user-attachments/assets/1ed9620a-4a26-45a2-a108-3305c8a04fbd" />)
 
 
 ## Sample Prediction
